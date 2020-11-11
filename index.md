@@ -6,7 +6,7 @@ It appears that the customer would like to expand their VoD service with premium
 
 Using the Bitmovin Encoder, the customer can utilizae a multi-codec approach that will supply a compatible video format for every type of device or browser. 
 
-###Multi-Codec Approach
+#### Multi-Codec Approach
 
 ```markdown
 configProvider = new ConfigProvider(args);
